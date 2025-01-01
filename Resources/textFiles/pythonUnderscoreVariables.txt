@@ -1,0 +1,61 @@
+In Python, variable names with underscores have specific meanings depending on their placement. Here's the distinction between variables with pre- and post-underscores:
+
+1. Single Leading Underscore (_var)
+
+Convention: This is a convention to indicate that a variable or method is intended for internal use within a class or module and should not be accessed directly. It is not enforced by Python, but it's a hint to other developers.
+
+Example:
+
+class MyClass:
+    def _init_(self):
+        self._internal_var = 42  # Internal use only
+
+
+2. Single Trailing Underscore (var_)
+
+Convention: This is used to avoid naming conflicts with Python keywords or built-in names. For example, class_ instead of class because class is a reserved keyword in Python.
+
+Example:
+
+class_ = "A class name"
+
+
+3. Double Leading Underscore (__var)
+
+Purpose: This triggers name mangling, which is a technique that changes the name of the variable in a way that makes it harder to accidentally override or access the variable outside of its class. It is intended to make the variable more private.
+
+Example:
+
+class MyClass:
+    def _init_(self):
+        self.__private_var = 42  # Name mangling happens here
+
+The variable _private_var is internally renamed to _MyClass_private_var.
+
+
+4. Double Leading and Trailing Underscores (_var_)
+
+Purpose: These are special methods (also known as "dunder" methods, short for "double underscore") in Python. These methods are predefined and used to define behavior for built-in Python operations like addition, string representation, etc.
+
+Examples:
+
+_init_(self) for the constructor method in a class.
+
+_str_(self) for string representation of an object.
+
+_add_(self, other) for addition of two objects.
+
+
+You should avoid defining your own variables with double leading and trailing underscores unless you're implementing one of these special methods.
+
+
+Summary:
+
+Single underscores are for internal use (var or var).
+
+Double leading underscores invoke name mangling to avoid accidental overriding (__var).
+
+Double underscores on both sides are reserved for special, predefined methods that Python uses internally (_var_).
+
+
+Thus, a variable like _var_ is different because it’s intended for special use by Python, while variables with a single leading or trailing underscore are for convention or avoiding conflicts.

@@ -5,6 +5,15 @@ This is a repo which shows what i learnt each day!!
 
 # 2024
 
+### 07 - 12 - 2024
+
+**1. Started My open source contribution:** [first issue and PR](https://github.com/piyushgarg-dev/piyushgargdev-nextjs/issues/1770)
+
+---
+
+### 21 - 12 - 2024
+
+**1. Opened my first issue on django website:** [first Django issue and PR](https://github.com/django/djangoproject.com/issues/1842)
 
 ### 22 - 12 - 2024
 
@@ -25,6 +34,8 @@ This is a repo which shows what i learnt each day!!
 **1. for compiling css in djangoproject.com through docker:** `docker-compose exec web make compile-scss `
 
 **2. Installed GitHub CLI**
+
+**3. 2nd Django issue and pr:** [issue and pr](https://github.com/django/djangoproject.com/issues/1844)
 
 ---
 
@@ -82,6 +93,11 @@ To activate a env: `workon virtualenv_name`
 
 **5. Opening a dir in file explorer using cmd:** `type "start ." in a directory in cmd to open it in file explorer`
 
+**6. Made a basic web framework:** [framework repo](https://github.com/SrisailamKakurala/basic_framework)
+
+**7. Learnt about python variables with _ and __ :** [Download the Notes](./Resources/textFiles/pythonUnderscoreVariables.txt)
+
+
 ---
 
 ### 26 - 12 - 2024
@@ -98,6 +114,12 @@ To activate a env: `workon virtualenv_name`
 
 **5. project templates of all languages:** [cookiecutter](https://www.cookiecutter.io/ )
 
+**6. Made AutoImportingModelsInShell --GSoC 2024 Django Project:** [Code](https://github.com/SrisailamKakurala/AutoImportingModelsInShell)
+
+**7. Completed Django Tutorial:** [Code Snippets](https://github.com/SrisailamKakurala/django-prac)
+
+**8. Feature Request for Django:** [Issue](https://github.com/django/djangoproject.com/issues/1850)
+
 ---
 
 ### 27 - 12 - 2024
@@ -112,8 +134,32 @@ To activate a env: `workon virtualenv_name`
 
 ---
 
-# 2025
+### 29 - 12 - 2024
 
+**1. Fixed Django Github Actions Issue (#1855):** [PR](https://github.com/django/djangoproject.com/pull/1855)
+
+**2. Completed Webpack Tutorial:** [Tutorial](https://youtu.be/JXBR65bs9CA?si=fr_zuAgrUSrPKSiy)
+
+---
+
+### 30 - 12 - 2024
+
+**1. Made batTemplates Logo:** 
+
+![alt text](<Resources/Images/Screenshot 2024-12-30 092959.png>)
+
+---
+
+### 31 - 12 - 2024
+
+**1. Revised Git Basics in Animated way:** [Learn Here](https://learngitbranching.js.org/)
+
+---
+
+
+
+
+# 2025
 
 ### 1 - 1 - 2025
 
@@ -123,9 +169,15 @@ To activate a env: `workon virtualenv_name`
 
 **2. creating an npm auth token:** `npm token create`
 
-**3. how packages are published not based on push alone using GHActions:**
+**3. Completed github Actions Tutorial:** [repo](https://github.com/SrisailamKakurala/github-actions)
+
+**4. Publishing npm packages with actions automatically:** [code](https://github.com/SrisailamKakurala/github-actions/blob/main/sampleWorkflows/workflows/publishnpm.yml)
+
+**5. how packages are published not based on push alone using GHActions:**
 
 ![alt text](<Resources/Images/WhatsApp Image 2025-01-01 at 19.05.46_ce1c3e42.jpg>)
 ![alt text](<Resources/Images/WhatsApp Image 2025-01-01 at 19.06.20_948a317b.jpg>)
 
-**4. we use version tags like below to trigger package new release:** `git push origin v1.0.0`
+**6. we use version tags like below to trigger package new release:** `git push origin v1.0.0`
+
+**7. The-Learning-Diary:** Today I created this Readme
