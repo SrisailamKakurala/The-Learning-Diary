@@ -188,3 +188,5 @@ To activate a env: `workon virtualenv_name`
 
 **1. Explored GitHub Gists:** [My first demo Gist](https://gist.github.com/SrisailamKakurala)
 
+**2. Learned CodeQL analysis and implemented in eGO Bus:** [gist](https://gist.github.com/SrisailamKakurala/26769ebb344b96e7777ff24c87b62e94)
+
