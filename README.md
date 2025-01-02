@@ -190,3 +190,9 @@ To activate a env: `workon virtualenv_name`
 
 **2. Learned CodeQL analysis and implemented in eGO Bus:** [gist](https://gist.github.com/SrisailamKakurala/26769ebb344b96e7777ff24c87b62e94)
 
+**3. Prepared for DWDM sem Exam**
+
+---
+
+### 3 - 1 - 2025
+
