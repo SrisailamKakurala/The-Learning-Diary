@@ -181,3 +181,10 @@ To activate a env: `workon virtualenv_name`
 **6. we use version tags like below to trigger package new release:** `git push origin v1.0.0`
 
 **7. The-Learning-Diary:** Today I created this Readme
+
+---
+
+### 2 - 1 - 2025
+
+**1. Explored GitHub Gists:** [My first demo Gist](https://gist.github.com/SrisailamKakurala)
+
