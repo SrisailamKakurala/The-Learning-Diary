@@ -5,6 +5,12 @@ This is a repo which shows what I learned each day!
 
 ---
 
+### 4 - 1 - 2025
+
+**1.** Brainstormed Bat templates
+
+---
+
 ### 3 - 1 - 2025
 
 **1.** Completed Redis Tutorial
