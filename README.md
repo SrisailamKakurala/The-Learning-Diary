@@ -9,6 +9,10 @@ This is a repo which shows what I learned each day!
 
 **1.** Brainstormed Bat templates
 
+**2.** Learned about Sharding and Vertical Partitioning: [view post](https://www.linkedin.com/posts/srisailamkakurala_databasedesign-horizontalpartitioning-verticalpartitioning-activity-7281159889337401344-jrY7?utm_source=share&utm_medium=member_desktop)
+
+**3.** Learned about lazy deletion of redis: [notes](https://gist.github.com/SrisailamKakurala/5d57748e74168a18dff4761a00e04bdc#file-lazy-deletion-md)
+
 ---
 
 ### 3 - 1 - 2025
