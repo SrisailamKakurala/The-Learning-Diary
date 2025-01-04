@@ -13,6 +13,12 @@ This is a repo which shows what I learned each day!
 
 **3.** Learned about lazy deletion of redis: [notes](https://gist.github.com/SrisailamKakurala/5d57748e74168a18dff4761a00e04bdc#file-lazy-deletion-md)
 
+**4.** Learned about Lua scripting in Redis For custom logical atomic operations
+
+**5.** completed zustand tutorial: [notes](https://github.com/SrisailamKakurala/zustand)
+
+**6.** completed practicing phase 1,2,3 of redis beginner to advanced notes: [notes](https://github.com/SrisailamKakurala/redis-prac)
+
 ---
 
 ### 3 - 1 - 2025
