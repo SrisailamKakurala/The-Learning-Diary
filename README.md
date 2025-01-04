@@ -19,6 +19,8 @@ This is a repo which shows what I learned each day!
 
 **6.** completed practicing phase 1,2,3 of redis beginner to advanced notes: [notes](https://github.com/SrisailamKakurala/redis-prac)
 
+**7.** Learned about Progressive web apps: [vid](https://youtu.be/RvEEZLxiAlQ?si=dTvKApMN44DrhgM1)
+
 ---
 
 ### 3 - 1 - 2025
