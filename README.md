@@ -5,6 +5,16 @@ This is a repo which shows what I learned each day!
 
 ---
 
+### 5 - 1 - 2025
+
+**1.** Learned about template repo's in github: one need write permission to make a repo as a template and for using a repo as a template we need to have atleast read permissions
+
+**2.** Created Issue (bug and feature) and PR templates in Bat templates Project
+
+**3.** Made folder structure for bat templates
+
+---
+
 ### 4 - 1 - 2025
 
 **1.** Brainstormed Bat templates
