@@ -5,6 +5,10 @@ This is a repo which shows what I learned each day!
 
 ---
 
+### 7 - 1 - 2025
+
+---
+
 ### 6 - 1 - 2025
 
 **1.** Updated the folder structure of bat templates
@@ -14,6 +18,8 @@ This is a repo which shows what I learned each day!
 **3.** made ui of bat templates
 
 **4.** made Loader and Button Components in Bat templates
+
+**5.** wrote readme for bat templates
 
 ---
 
