@@ -5,6 +5,18 @@ This is a repo which shows what I learned each day!
 
 ---
 
+### 6 - 1 - 2025
+
+**1.** Updated the folder structure of bat templates
+
+**2.** configured tailwind CSS in bat templates
+
+**3.** made ui of bat templates
+
+**4.** made Loader and Button Components in Bat templates
+
+---
+
 ### 5 - 1 - 2025
 
 **1.** Learned about template repo's in github: one need write permission to make a repo as a template and for using a repo as a template we need to have atleast read permissions
