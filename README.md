@@ -7,6 +7,12 @@ This is a repo which shows what I learned each day!
 
 ### 7 - 1 - 2025
 
+**1.** added useToast hook in bat templates
+
+**2.** learned about react-hook-form
+
+**3.** learned redis (nodejs): [notes](https://github.com/SrisailamKakurala/redis-prac)
+
 ---
 
 ### 6 - 1 - 2025
