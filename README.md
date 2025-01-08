@@ -5,6 +5,14 @@ This is a repo which shows what I learned each day!
 
 ---
 
+### 8 - 1 - 2025
+
+**1.** created signin, register and sidebar components in bat templates
+
+**2.** added routing to bat templates
+
+---
+
 ### 7 - 1 - 2025
 
 **1.** added useToast hook in bat templates
