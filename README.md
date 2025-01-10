@@ -5,6 +5,20 @@ This is a repo which shows what I learned each day!
 
 ---
 
+### 10 - 1 - 2025
+
+**1.** google signin implemented
+
+---
+
+### 9 - 1 - 2025
+
+**1.** Made Homepage and integrated signin/register modals with store
+
+**2.** added docker file and configured firebase
+
+---
+
 ### 8 - 1 - 2025
 
 **1.** created signin, register and sidebar components in bat templates
