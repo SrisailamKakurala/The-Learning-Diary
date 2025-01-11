@@ -5,9 +5,21 @@ This is a repo which shows what I learned each day!
 
 ---
 
+### 11 - 1 - 2025
+
+**1.** added accessToken to cookie
+
+**2.** added authMiddleware and handled firebase sesssion management and used loader while authing
+
+**3.** transition of auth modals and it's state issue done
+
+---
+
 ### 10 - 1 - 2025
 
 **1.** google signin implemented
+
+**2.** sent googleUserData to localStorage
 
 ---
 
