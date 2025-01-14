@@ -5,6 +5,16 @@ This is a repo which shows what I learned each day!
 
 ---
 
+### 14 - 1 - 2025
+
+**1.** added EmailAuth to bat templates
+
+**2.** moved auth logic to hooks
+
+**3.** GHpages deploy workflow added and schema done
+
+---
+
 ### 11 - 1 - 2025
 
 **1.** added accessToken to cookie
