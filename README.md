@@ -5,6 +5,28 @@ This is a repo which shows what I learned each day!
 
 ---
 
+### 16 - 1 - 2025
+
+**1.** added toasts for auth and made profile modular
+
+**2.** made 404 page and admin/user Layouts
+
+**3.** made admin auth and admin's protected routes
+
+**4.** (sysDes) learned about kafka and it's top 5 use cases
+
+---
+
+### 15 - 1 - 2025
+
+**1.** created user in firestore
+
+**2.** made profile and localStorageUtils
+
+**3.** (sysDes) learned about 9 types of API testing
+
+---
+
 ### 14 - 1 - 2025
 
 **1.** added EmailAuth to bat templates
