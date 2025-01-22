@@ -5,6 +5,62 @@ This is a repo which shows what I learned each day!
 
 ---
 
+### 22 - 1 - 2025
+
+**1.** Solved Leetcode Problems of TUF_SDE: [repo](https://github.com/SrisailamKakurala/TUF_SDE_SHEET_SOLUTIONS)
+
+---
+
+### 21 - 1 - 2025
+
+**1.** made users table and all avail pages responsive
+
+**2.** (sysDes)Learned about OSI(open systems interconnections)
+
+**3.** (sysDes)Learned about Top 5 ways to optimize the API performance: [post](https://www.linkedin.com/feed/update/urn:li:activity:7287680372807516161/)
+
+**4.** Learned about Load Testing Practically with Apache_JMeter: [code](https://github.com/SrisailamKakurala/LoadTesting_JmeterDocker)
+
+---
+
+### 20 - 1 - 2025
+
+**1.** Completed Bolt.new Clone tutorial
+
+---
+
+### 19 - 1 - 2025
+
+**1.** Reviewed and merged the PR in fitness repo
+
+**2.** made templates page and template card comp
+
+---
+
+### 18 - 1 - 2025
+
+**1.** Reported issue in djangoproject.com: [issue](https://github.com/django/djangoproject.com/issues/1878)
+
+**2.** made asmin-sidebar/dashboard/tabs_comps/card Comp/folder and template fetching services
+
+**3.** codeQL workflow added in batTemplates
+
+**4.** removed pagesDeploy.yml workflow
+
+**5.** added docker and updated readme
+
+**6.** removed codeQL and made settings form and service and some other minor changes regarding overflow in admin
+
+---
+
+### 17 - 1 - 2025
+
+**1.** (sysDes) learned about kafka and it's use cases: [notes](https://gist.github.com/SrisailamKakurala/9594ea8959c5cb40f68ef9684d0f370d#file-kafka-md)
+
+**2.** changed user sidebar icons and made admin sidebar of batTemplates
+
+---
+
 ### 16 - 1 - 2025
 
 **1.** added toasts for auth and made profile modular
