@@ -5,9 +5,29 @@ This is a repo which shows what I learned each day!
 
 ---
 
+### 24 - 1 - 2025
+
+**1.** completed AWS tutorial (IAM, EC2, S3, SECURITY GROUPS, SERVERLESS, SERVERLESS FRAMEWORK): [repo](https://github.com/SrisailamKakurala/AWS-prac)
+
+**2.** watched web3 roadmap
+
+**3.** made admin page responsive, templates in dashboard and it's approval and rejection service and flag modal for templates
+
+---
+
+### 23 - 1 - 2025
+
+**1.** Solved 118, 48, 73 of TUF_SDE_DSA_CHEAT_SHEET
+
+---
+
 ### 22 - 1 - 2025
 
 **1.** Solved Leetcode Problems of TUF_SDE: [repo](https://github.com/SrisailamKakurala/TUF_SDE_SHEET_SOLUTIONS)
+
+**2.** Started AWS and learned about ip addressing/vpc's/subnets/route tables/internetGateways
+
+**3.** made responsive, added template form and it's service and rendered that data in admin dashboard
 
 ---
 
