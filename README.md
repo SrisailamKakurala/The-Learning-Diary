@@ -5,6 +5,56 @@ This is a repo which shows what I learned each day!
 
 ---
 
+### 29 - 1 - 2025
+
+**1.** build error resolved in eGo Bus
+
+**2.** Learned about (Netflix Tech stack)[]
+
+---
+
+### 28 - 1 - 2025
+
+**1.** (sysDes) Learned about (SQL joins)[https://www.linkedin.com/posts/srisailamkakurala_understanding-joins-in-sql-inner-join-activity-7289998609389957122-hOcI?utm_source=share&utm_medium=member_desktop] and types of (auths)[https://www.linkedin.com/posts/srisailamkakurala_apisecurity-restapi-authentication-activity-7289684113651843073-AcAs?utm_source=share&utm_medium=member_desktop] and (rate limiting)[https://www.linkedin.com/posts/srisailamkakurala_nodejs-expressjs-apisecurity-activity-7289682905625182208-1bjp?utm_source=share&utm_medium=member_desktop] in nodejs
+
+**2.** like service done and solved userID issue in auth-storage
+
+**3.** promotion and demotion of users done and resolved the like issue in bookmarks
+
+**4.** solved 3 leetcode Problems
+
+---
+
+### 27 - 1 - 2025
+
+**1.** solved profile bug and removed bookmarks in profile and made a sample folders page and made contributors page and it's service
+
+---
+
+### 26 - 1 - 2025
+
+**1.** opened (disuccsions)[https://github.com/SrisailamKakurala/BatTemplates/discussions] in bat templates and closed issue 2
+
+**2.** approval/rejection service and rendering templates in user and bookmarks page completed
+
+**3.** edit profile comp done but need to fix the bug in service
+
+---
+
+### 25 - 1 - 2025
+
+**1.** made bat templates public and opened an (issue)[https://github.com/SrisailamKakurala/BatTemplates/issues/1]
+
+**2.** aws piyush tut completed
+
+**3.** made a pwa and used railway mongo image in backend for ugnotes
+
+**4.** razorpay integrated in ugnotes
+
+**5.** added more sections in home and made responsive and made home modular
+
+---
+
 ### 24 - 1 - 2025
 
 **1.** completed AWS tutorial (IAM, EC2, S3, SECURITY GROUPS, SERVERLESS, SERVERLESS FRAMEWORK): [repo](https://github.com/SrisailamKakurala/AWS-prac)
