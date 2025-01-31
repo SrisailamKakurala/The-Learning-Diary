@@ -9,7 +9,7 @@ This is a repo which shows what I learned each day!
 
 **1.** build error resolved in eGo Bus
 
-**2.** Learned about (Netflix Tech stack)[]
+**2.** Learned about (Netflix Tech stack)[] 
 
 ---
 
