@@ -7,6 +7,10 @@ This is a repo which shows what I learned each day!
 
 ### 1 - 2 - 2025
 
+**1.** 18, 229, 493, 62, 2
+
+**2.** made flag page and it's services and contributors page in admin panel and resolved the profile pic issue in this contr's page
+
 ---
 
 ### 31 - 1 - 2025
