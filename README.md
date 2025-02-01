@@ -5,17 +5,43 @@ This is a repo which shows what I learned each day!
 
 ---
 
+### 1 - 2 - 2025
+
+---
+
+### 31 - 1 - 2025
+
+**1.** buy me a coffee added and deployed to netlify
+
+---
+
+### 30 - 1 - 2025
+
+**1.** (sysDes)Learned about various s/w [Architectural styles](https://gist.github.com/SrisailamKakurala/9594ea8959c5cb40f68ef9684d0f370d#file-software_system_archs-md)
+![alt text](</Resources/Images/Screenshot 2025-01-30 183847.png>)
+
+
+**2.** learned about version releases in [git](https://github.com/SrisailamKakurala/Git-releases)
+
+**3.** Made a [Gym website](https://github.com/SrisailamKakurala/Tigor-Gym) using Lovable
+
+**4.** done 169,74,19,206,21,876 and learned boyer-moore voting algo
+
+**5.** Learned about [s/w architectures](https://www.linkedin.com/feed/update/urn:li:activity:7290706964832043008/)
+
+---
+
 ### 29 - 1 - 2025
 
 **1.** build error resolved in eGo Bus
 
-**2.** Learned about (Netflix Tech stack)[]
+**2.** Learned about [Netflix Tech stack](https://gist.github.com/SrisailamKakurala/9594ea8959c5cb40f68ef9684d0f370d#file-netflix_stack-md)
 
 ---
 
 ### 28 - 1 - 2025
 
-**1.** (sysDes) Learned about (SQL joins)[https://www.linkedin.com/posts/srisailamkakurala_understanding-joins-in-sql-inner-join-activity-7289998609389957122-hOcI?utm_source=share&utm_medium=member_desktop] and types of (auths)[https://www.linkedin.com/posts/srisailamkakurala_apisecurity-restapi-authentication-activity-7289684113651843073-AcAs?utm_source=share&utm_medium=member_desktop] and (rate limiting)[https://www.linkedin.com/posts/srisailamkakurala_nodejs-expressjs-apisecurity-activity-7289682905625182208-1bjp?utm_source=share&utm_medium=member_desktop] in nodejs
+**1.** (sysDes) Learned about [SQL joins](https://www.linkedin.com/posts/srisailamkakurala_understanding-joins-in-sql-inner-join-activity-7289998609389957122-hOcI?utm_source=share&utm_medium=member_desktop) and types of [auths](https://www.linkedin.com/posts/srisailamkakurala_apisecurity-restapi-authentication-activity-7289684113651843073-AcAs?utm_source=share&utm_medium=member_desktop) and [rate limiting](https://www.linkedin.com/posts/srisailamkakurala_nodejs-expressjs-apisecurity-activity-7289682905625182208-1bjp?utm_source=share&utm_medium=member_desktop) in nodejs
 
 **2.** like service done and solved userID issue in auth-storage
 
@@ -33,7 +59,7 @@ This is a repo which shows what I learned each day!
 
 ### 26 - 1 - 2025
 
-**1.** opened (disuccsions)[https://github.com/SrisailamKakurala/BatTemplates/discussions] in bat templates and closed issue 2
+**1.** opened [disuccsion]([https://github.com/SrisailamKakurala/BatTemplates/discussions) in bat templates and closed issue 2
 
 **2.** approval/rejection service and rendering templates in user and bookmarks page completed
 
@@ -43,7 +69,7 @@ This is a repo which shows what I learned each day!
 
 ### 25 - 1 - 2025
 
-**1.** made bat templates public and opened an (issue)[https://github.com/SrisailamKakurala/BatTemplates/issues/1]
+**1.** made bat templates public and opened an [issue](https://github.com/SrisailamKakurala/BatTemplates/issues/1)
 
 **2.** aws piyush tut completed
 
