@@ -5,6 +5,24 @@ This is a repo which shows what I learned each day!
 
 ---
 
+### 2 - 2 - 2025
+
+**1.** logs page done and adopted table comp for both logs and user data
+
+**2.** edited settings page
+
+**3.** updated details in logs
+
+**4.** indented the dets in logs table
+
+**5.** added skeleton grid in contributors and templates of user side
+
+**6.** made a service for adding template Id's in users contributions array
+
+**7.** added edit/delete btn's in template cards and rendered user contributions in profile
+
+---
+
 ### 1 - 2 - 2025
 
 **1.** 18, 229, 493, 62, 2
