@@ -5,6 +5,76 @@ This is a repo which shows what I learned each day!
 
 ---
 
+### 9 - 2 - 2025
+
+**1.** made zero-hero [webRTC notes](https://github.com/SrisailamKakurala/webRTC/)
+
+---
+
+### 8 - 2 - 2025
+
+**1.** webRTC Tut done and built a video calling application
+
+**2.** 4, 5, 6, 7 Phases of LSS done
+
+---
+
+### 7 - 2 - 2025
+
+**1.** project setup and splash and phone screen
+
+**2.** tabs done and phone page input should be better
+
+**3.** modified rootlayout and made demo pages of all
+
+**4.** configured firebase, .env, and gservs
+
+---
+
+### 6 - 2 - 2025
+
+**1.** Brainstormed About SyncUp
+
+**2.** 1, 2, 3 Phases of LSS done
+
+---
+
+### 5 - 2 - 2025
+
+**1.** LSS notes complete
+
+**2.** deleted templateId from user contributions when template is deleted
+
+**3.** Made Tiles Gaurdian using Lovable
+
+---
+
+### 4 - 2 - 2025
+
+**1.** second phase of LSS
+
+**2.** 141, 160, 234, 237
+
+**3.** Learned about various [API Protocols](https://gist.github.com/SrisailamKakurala/9594ea8959c5cb40f68ef9684d0f370d#file-evolving-landscape-of-api-prots-md)
+
+---
+
+### 3 - 2 - 2025
+
+**1.** edit and delete template done
+
+**2.** added loader in bookmarks
+
+**3.** logs configured in every operation
+
+**4.** changed admin layout for admin/member and resolved contributors read error
+
+**5.** phase 1: Introduction to Shell Scripting
+
+**6.** Learned about [acid props](https://www.linkedin.com/posts/srisailamkakurala_databases-softwareengineering-acid-activity-7292218020544884736-1vxV?utm_source=share&utm_medium=member_desktop)
+
+---
+
 ### 2 - 2 - 2025
 
 **1.** logs page done and adopted table comp for both logs and user data
