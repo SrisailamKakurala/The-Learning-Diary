@@ -27,7 +27,7 @@ This is a repo which shows what I learned each day!
 
 **1.** made zero-hero [webRTC notes](https://github.com/SrisailamKakurala/webRTC/)
 
-**2.** 8,9 of LSS
+**2.** Completed 8, 9 of LSS
 
 ---
 
