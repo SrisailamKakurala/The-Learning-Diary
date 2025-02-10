@@ -5,9 +5,29 @@ This is a repo which shows what I learned each day!
 
 ---
 
+### 10 - 2 - 2025
+
+**1.** 10, 11 of LSS
+
+**2.** (SysDes)
+
+
+- [Explaining 8 Popular Network Protocols in 1 Diagram](https://www.linkedin.com/posts/srisailamkakurala_networking-http-websockets-activity-7294747438869815297-ljiW?utm_source=share&utm_medium=member_desktop)
+- [Data Pipelines Overview](https://www.linkedin.com/posts/srisailamkakurala_dataengineering-bigdata-datapipelines-activity-7294749793010995202-WeZt?utm_source=share&utm_medium=member_desktop)
+- [CAP, BASE, SOLID, KISS, What do these acronyms mean?](https://www.linkedin.com/posts/srisailamkakurala_softwareengineering-codingprinciples-captheorem-activity-7294754321823342592-zOSd?utm_source=share&utm_medium=member_desktop) : [`gist`](https://gist.github.com/SrisailamKakurala/9594ea8959c5cb40f68ef9684d0f370d#file-software_principles-md)
+- GET, POST, PUT... Common HTTP “verbs”
+- [How Do C++, Java, Python Work?](https://www.linkedin.com/posts/srisailamkakurala_compiled-vs-bytecode-vs-interpreted-whats-activity-7294757381656219648-rXxx?utm_source=share&utm_medium=member_desktop)
+- [Top 12 Tips for API Security](https://www.linkedin.com/posts/srisailamkakurala_apisecurity-cybersecurity-developers-activity-7294760973041639426-apWS?utm_source=share&utm_medium=member_desktop)
+- [cloud comparision cheat sheet](https://www.linkedin.com/posts/srisailamkakurala_cloudcomputing-aws-azure-activity-7294767556236623872-R_l_?utm_source=share&utm_medium=member_desktop)
+
+
+---
+
 ### 9 - 2 - 2025
 
 **1.** made zero-hero [webRTC notes](https://github.com/SrisailamKakurala/webRTC/)
+
+**2.** 8,9 of LSS
 
 ---
 
