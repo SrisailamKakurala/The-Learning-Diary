@@ -3,6 +3,41 @@
 
 This is a repo which shows what I learned each day!
 
+---
+
+### 17 - 4 - 2025
+
+**1.** Data Migration (transfer) vs Database Migration (evolution)
+
+![alt text](./Resources/images/image.png)
+
+**2.** 
+
+---
+
+### 16 - 4 - 2025
+
+**1.** Promises in js
+
+**2.** Google ADK [agent dev kit](https://youtu.be/zgrOwow_uTQ?si=OsIFj9k7yY00qHlV)
+
+**3.** CD [language processors, phases of compiler]
+
+**4.** React19 Features
+
+**5.** sysdes take of [hitesh sir](https://youtu.be/rN6cq8yyCas?si=Voi1j2pWv_npmGvy)
+
+**6.** [How do software projects achieve zero downtime database migrations?](https://youtu.be/cw5K2O4AHJc?si=oVCk7Z-DksLjivYj)
+
+```txt
+In tech/database context, migration means the process of moving data or schema structures from one state to another in a controlled, reversible way, often to accommodate evolving application requirements while preserving existing data.
+
+- so basically it's the movement of state of data or schema but not the moment of entire data from one db to other db right?
+
+Correct. In database terminology, "migration" typically refers to changing the state or structure of your schema (like adding columns, modifying data types, splitting fields) within the same database system, rather than moving the entire dataset from one database platform to another (which would more commonly be called a "data transfer" or "database migration between systems").
+
+When developers talk about "running migrations," they usually mean applying incremental schema changes to evolve the database structure while preserving the data.
+```
 
 ---
 
