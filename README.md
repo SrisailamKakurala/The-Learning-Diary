@@ -11,7 +11,15 @@ This is a repo which shows what I learned each day!
 
 ![alt text](./Resources/images/image.png)
 
-**2.** 
+**2.** studied job [market](https://youtu.be/nJMv1VMHwMw?si=S6OZsHQnL0qpDA_9)
+
+**3.** completed 4 sysdes vids
+
+**4.** have to explore [n8n](https://youtu.be/1QR-fz-JCA4?si=z6tNb7XAzL3HGKQm)
+
+**5.** have to explore openAI codex cli
+
+**6.** Learned GraphQL with node and ts
 
 ---
 
