@@ -3,6 +3,21 @@
 
 This is a repo which shows what I learned each day!
 
+
+---
+
+**1.** understand mcp
+
+**2.** understand A2A
+
+**3.** completed endnotes.ai
+
+**4.** explared gh cli tool
+
+---
+
+# I'm back motherf**r I'm back!!!
+
 ---
 
 ### 10 - 2 - 2025
