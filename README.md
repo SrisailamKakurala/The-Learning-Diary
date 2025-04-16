@@ -6,6 +6,8 @@ This is a repo which shows what I learned each day!
 
 ---
 
+### 15 - 4 - 2025
+
 **1.** understand mcp
 
 **2.** understand A2A
